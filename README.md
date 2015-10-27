@@ -4,6 +4,8 @@ Math Puzzles for Kids!
 At some point, this is the beginning of a collection of puzzles for kids
 learning basic math.
 
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+
 
 [Puzzle #1: Multi-Crypto](multicrypto/)
 -----------------------

@@ -1,0 +1,6 @@
+{
+    "name": "Math Puzzles for Kids!",
+    "description": "At some point, this is the beginning of a collection of puzzles for kids learning basic math.",
+    "repository": "https://github.com/wblakecaldwell/mathpuzzles",
+    "keywords": ["golang", "math"]
+}
